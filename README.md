@@ -36,14 +36,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=armbdevelop&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="GitHub статистика armbdevelop" />
 </a>
 
-## 🚀 Проекты
-<!-- Замените эти проекты своими -->
-<a href="https://github.com/armbdevelop/fastapi-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armbdevelop&repo=fastapi-project&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/armbdevelop/backend-service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=armbdevelop&repo=backend-service&theme=dark&hide_border=true" />
-</a>
+
 
 ## 🌱 В настоящее время изучаю
 - Расширенные возможности FastAPI
