@@ -1,50 +1,38 @@
-# Привет, я Арман 👋
+## Арман / armbdevelop
 
-## Обо мне
-Я Python разработчик среднего уровня с фокусом на FastAPI. Создаю эффективные и надежные API решения, постоянно совершенствую свои навыки в области веб-разработки.
+Python backend → Go backend. Москва.
 
-## 🛠️ Технологический стек
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Async](https://img.shields.io/badge/-Async-008080?style=flat-square&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=SQLAlchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/-Alembic-7A1FA2?style=flat-square&logo=alembic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+3+ года в продакшене: проектировал API, строил архитектуру сервисов, запускал в Docker, покрывал тестами. Сейчас активно перехожу на Go — пишу на нём весь новый код и собираю портфолио-проекты. Python остаётся в эксплуатации, но Go — основной фокус.
 
-## 💼 Профессиональные навыки
-- Разработка RESTful API с использованием FastAPI
-- Работа с асинхронными функциями и event loop в Python
-- Проектирование и оптимизация реляционных (PostgreSQL) и NoSQL (MongoDB, Redis) баз данных
-- Миграции баз данных с использованием Alembic
-- Распределенные задачи и очереди с Celery
-- Реализация OAuth2 и JWT аутентификации
-- Интеграционное и юнит-тестирование (pytest)
-- Контейнеризация с Docker и Docker Compose
-- CI/CD пайплайны
+Хакатонщик. Top-5 на Ozon Tech. Умею дедлайны.
 
-## 📊 GitHub статистика
-<a href="https://github.com/armbdevelop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armbdevelop&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/armbdevelop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armbdevelop&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="GitHub статистика armbdevelop" />
-</a>
+---
 
+### Стек
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🌱 В настоящее время изучаю
-- Расширенные возможности FastAPI
-- Apache Kafka
-- Масштабирование микросервисов
-- Celery
-- Высоконагруженные системы на MongoDB
-- RPC, gRPC
+**Go:** net/http, chi, goroutines, context, gRPC, PostgreSQL (pgx), миграции, JWT, clean architecture, Docker, CI/CD.
 
+**Python:** FastAPI, async/await, SQLAlchemy, Alembic, Celery, pytest, OAuth2/JWT.
+
+**Инфра:** Docker, Docker Compose, GitHub Actions, Nginx, Prometheus. Базово K8s.
+
+---
+
+### Что умею
+
+- Проектировать и строить REST API и gRPC-сервисы с чистой архитектурой
+- Работать с реляционными и NoSQL базами: проектирование схем, миграции, индексы, оптимизация запросов
+- Контейнеризировать сервисы, настраивать CI/CD, собирать образы <20 MB
+- Покрывать код unit и интеграционными тестами, гонять с -race
+- Работать с конкурентностью: goroutines, каналы, worker pools, graceful shutdown
 
 ---
